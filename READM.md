@@ -80,7 +80,7 @@ Used to implement the reservation notification system:
 
 1. Clone the repository:
 
-2. Open in IntelliJ / VS Code
+2. Open in IntelliJ/VS Code
 
 3. Run:
 
@@ -120,3 +120,4 @@ Kundan Kumar
 
 ---
 
+Submission Branch for Assignment
